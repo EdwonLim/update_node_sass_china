@@ -58,3 +58,5 @@ if [[ $REPLY =~ ^[Yy]$ ]]; then
     cnpm sync node-sass-china
     qnpm sync node-sass-china
 fi
+
+echo "--> All Complete!"

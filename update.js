@@ -7,7 +7,7 @@ var pkg = require(pkgPath);
 
 pkg.name += '-china';
 pkg.description += '(免翻墙国情增强版)';
-pkg.repository.url = 'https://github.com/EdwonLim/node-sass-china.git';
+pkg.repository.url = 'https://github.com/EdwonLim/node-sass-china';
 pkg.author = {
     "name": "EdwonLim",
     "email": "edwon.lim@gmail.com",
